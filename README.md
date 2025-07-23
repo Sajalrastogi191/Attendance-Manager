@@ -29,7 +29,7 @@ _All screenshots are stored in the `/assets` folder._
 
 ### 🏠 Home Page – Subject Table
 
-<img src="./home.jpg" alt="Home Page" width="300"/>
+<img src="./home (2).jpg" alt="Home Page" width="300"/>
 
 ---
 
