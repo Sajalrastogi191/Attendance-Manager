@@ -29,19 +29,19 @@ _All screenshots are stored in the `/assets` folder._
 
 ### 🏠 Home Page – Subject Table
 
-<img src="./assets/home.png" alt="Home Page" width="300"/>
+<img src="./home.png" alt="Home Page" width="300"/>
 
 ---
 
 ### ✅ Mark Attendance
 
-<img src="./assets/attendance.png" alt="Mark Attendance" width="300"/>
+<img src="./attendance.png" alt="Mark Attendance" width="300"/>
 
 ---
 
 ### 🗓️ View Timetable (PDF Viewer)
 
-<img src="./assets/timetable.png" alt="Timetable View" width="300"/>
+<img src="./timetable.png" alt="Timetable View" width="300"/>
 
 ---
 
